@@ -1,4 +1,4 @@
-# main program.
+# Main program.
 
 from lexing import *
 import sys
